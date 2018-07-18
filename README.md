@@ -1,2 +1,2 @@
 # PrePro2018-Solutions
-Solutions of all problems in Pre-Programming 61 Online &amp; Onsite, IT Faculty, KMITL.
+Repository นี้จัดทำขึ้นเพื่อเป็นเฉลยและแนวทางให้กับน้อง ๆ IT16 KMITL ที่ได้มาเรียนในคอร์สปรับพื้นฐานการเขียนโปรแกรม ทั้งแต่รอบ Online จนไปถึงรอบ Onsite
