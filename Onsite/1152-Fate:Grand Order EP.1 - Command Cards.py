@@ -5,7 +5,7 @@ By Teerapat Kraisrisirikul
 
 def main():
     """ Main function """
-    data = {'Quick': [0.8, 0.96, 1.12], 'Arts': [1, 1.2, 1.4], 'Buster': [1.5, 1.8, 2.1]}
+    data = {'Quick': (0.8, 0.96, 1.12), 'Arts': (1, 1.2, 1.4), 'Buster': (1.5, 1.8, 2.1)}
     base_dmg, total_dmg = int(input()), 0
     card = [input(), input(), input()]
 

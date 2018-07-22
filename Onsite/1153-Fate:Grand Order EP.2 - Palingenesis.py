@@ -12,13 +12,11 @@ def main():
     while level < min(target, 100):
         if level == 60:
             level += 10
-            grail += 1
         elif 65 <= level <= 85:
             level += 5
-            grail += 1
         elif level >= 90:
             level += 2
-            grail += 1
+        grail += 1
 
     print('Result: Level {}'.format(level))
     print('Holy Grail used: {}'.format(grail))
