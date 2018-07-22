@@ -5,6 +5,9 @@ By Teerapat Kraisrisirikul
 
 def main():
     """ Main function """
-    _ = [print(i, end='') for i in input() if i == '1' or i == '0'], print()
+    for i in input():
+        if i in '01':
+            print(i, end='')
+    print()
 
 main()
