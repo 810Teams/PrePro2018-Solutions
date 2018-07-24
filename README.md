@@ -11,7 +11,7 @@ As mentioned above, this repository should be used as a guidance, a hint or to l
 ## Instructions
 As you can see up to 4 folders, each folder includes solution files for all problems in the specific problem catagory. All files are in Python format.
 
-There are a total of 4 problem catories, which includes:
+There are a total of 4 problem catagories, which includes:
 
 - Online
 - Onsite
