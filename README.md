@@ -32,3 +32,6 @@ There are a total of 4 problem catagories, which includes:
 |<img src="resources/img/prapawity.jpg" width="120px" height="120px">|<img src="resources/img/napontunglukmongkol.jpg" width="120px" height="120px">|<img src="resources/img/spyasdza.jpg" width="120px" height="120px">|<img src="resources/img/phongsathron.jpg" width="120px" height="120px">|
 |[prapawity](https://github.com/prapawity)|[NaponTunglukmongkol](https://github.com/NaponTunglukmongkol)|[spyasdza](https://github.com/spyasdza)|[Phongsathron](https://github.com/Phongsathron)|
 |Prapawit<br>Pattasiriwichot|Napon<br>Tunglukmongkol|Pitchayut<br>Deachnu|Phongsathron<br>Kittiworapanya|
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
