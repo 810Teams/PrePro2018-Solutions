@@ -21,6 +21,7 @@ def main():
     # Output
     if pos_a == pos_b:
         print('YES')
+        print(jumps)
     else:
         print('NO')
 
